@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8FAB240-0644-726C-9E66-81D63E4D60C3}") = "Skripsi", "Assembly-CSharp.csproj", "{F51F4963-71E0-CEFC-9D79-BED6DF4346FB}"
+EndProject
+Project("{D8FAB240-0644-726C-9E66-81D63E4D60C3}") = "Skripsi", "Assembly-CSharp-Editor.csproj", "{B25C4869-18AE-340F-64D3-53756245BA72}"
+EndProject
+Project("{D8FAB240-0644-726C-9E66-81D63E4D60C3}") = "Skripsi", "Assembly-UnityScript-Editor-firstpass.unityproj", "{9EC6BEC2-85E7-8B65-C972-69D915567DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51F4963-71E0-CEFC-9D79-BED6DF4346FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51F4963-71E0-CEFC-9D79-BED6DF4346FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51F4963-71E0-CEFC-9D79-BED6DF4346FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51F4963-71E0-CEFC-9D79-BED6DF4346FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25C4869-18AE-340F-64D3-53756245BA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25C4869-18AE-340F-64D3-53756245BA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25C4869-18AE-340F-64D3-53756245BA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25C4869-18AE-340F-64D3-53756245BA72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC6BEC2-85E7-8B65-C972-69D915567DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC6BEC2-85E7-8B65-C972-69D915567DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC6BEC2-85E7-8B65-C972-69D915567DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC6BEC2-85E7-8B65-C972-69D915567DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
